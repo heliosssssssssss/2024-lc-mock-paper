@@ -1,6 +1,8 @@
 import random 
 from random import randint
 
+# d-check (4)
+
 total = 0
 item_list = []
 item_prices = []
